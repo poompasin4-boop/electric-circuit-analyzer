@@ -1,4 +1,4 @@
-# Electric Circuit Analyzer ⚡
+# Electric Circuit Analyzer 
 
 ## Objective
 This project aims to analyze basic electric circuits using fundamental electrical engineering principles.
