@@ -1,33 +1,32 @@
-# Electric Circuit Analyzer 
+# โครงงานกฎของโอห์ม (Ohm’s Law)
 
-## Objective
-This project aims to analyze basic electric circuits using fundamental electrical engineering principles.
-It was created as part of my engineering portfolio to demonstrate problem-solving skills and interest in electrical engineering.
+## วัตถุประสงค์
+โครงงานนี้จัดทำขึ้นเพื่ออธิบายแนวคิดพื้นฐานของกฎของโอห์ม  
+ซึ่งเป็นความรู้สำคัญในรายวิชาฟิสิกส์ไฟฟ้า  
+เหมาะสำหรับผู้เริ่มต้นและผู้ที่สนใจศึกษาต่อด้านวิศวกรรมไฟฟ้า
 
-## Principles Used
-- Ohm’s Law
-- Series and Parallel Circuits
-- Basic Electric Power Calculation
+## เนื้อหาในโครงงาน
+- ความหมายของแรงดันไฟฟ้า (Voltage)
+- ความหมายของกระแสไฟฟ้า (Current)
+- ความหมายของความต้านทานไฟฟ้า (Resistance)
+- สูตรกฎของโอห์ม V = IR
+- ตัวอย่างโจทย์และการคำนวณเบื้องต้น
 
-## Tools & Technologies
-- Python
-- NumPy
-- Matplotlib
+## ทักษะที่ได้รับ
+- ความเข้าใจพื้นฐานฟิสิกส์ไฟฟ้า
+- การวิเคราะห์ความสัมพันธ์ของปริมาณทางไฟฟ้า
+- การอธิบายแนวคิดเชิงเหตุผล
+- การใช้ GitHub ในการจัดเก็บผลงานและควบคุมเวอร์ชัน
 
-## Features
-- Calculate voltage, current, and resistance
-- Analyze series and parallel circuits
-- Display results clearly for learning purposes
+## ประโยชน์ของโครงงาน
+โครงงานนี้ช่วยให้เข้าใจหลักการทำงานของวงจรไฟฟ้าเบื้องต้น  
+และสามารถนำไปต่อยอดในการเรียนรู้เรื่องวงจรไฟฟ้าแบบอนุกรม–ขนาน  
+รวมถึงการวิเคราะห์วงจรในระดับที่สูงขึ้น
 
-## Example Output
-(Will be added after implementation)
+## วัตถุประสงค์ในการจัดทำ
+จัดทำขึ้นเพื่อใช้เป็นผลงานประกอบการยื่น Portfolio  
+เข้าศึกษาต่อในคณะวิศวกรรมศาสตร์ สาขาวิศวกรรมไฟฟ้า
 
-## What I Learned
-- Applying physics concepts to real engineering problems
-- Structuring a small engineering project
-- Using programming to analyze electrical systems
-
-## Future Improvements
-- Add graphical circuit simulation
-- Support more complex circuits
-- Improve user interface
+---
+ผู้จัดทำ: นายภูมิพศิณ ศรีชูรส
+ระดับชั้น: มัธยมศึกษาปีที่ 6
